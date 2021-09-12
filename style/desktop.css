@@ -1,0 +1,21 @@
+html{
+    background-image: url(/assets/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.main__plan a:hover{
+    text-decoration:none;
+    cursor:pointer;
+    color:hsl(245, 73%, 72%);
+}
+
+.main__container--button:hover{
+    cursor:pointer;
+    background-color:hsl(245, 73%, 72%);
+}
+
+.main__container--button--cancel:hover{
+    color:black;
+    cursor:pointer;
+}
